@@ -9,5 +9,6 @@ namespace DMS.Demo.Git.Branching.GitHubFlow.MergePR.Bad03
     class Class2
     {
         // Branch: feature/foo | Commit #1
+        // Branch: feature/foo | Commit #3
     }
 }
